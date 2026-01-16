@@ -1,1 +1,1 @@
-Sitemap: https://lingxpca.github.io/STAT4500.github.io/sitemap.xml
+Sitemap: https://lingxpca.github.io/datascience/sitemap.xml

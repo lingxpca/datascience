@@ -57,7 +57,7 @@
   {
     "objectID": "stat4500.html",
     "href": "stat4500.html",
-    "title": "An Introduction to Statistical learning",
+    "title": "Statistical Machine Learning",
     "section": "",
     "text": "Lecture slides, class notes, and problem sets are linked below. New material is added approximately on a weekly basis.\n\n\n\n\n\n\n\n\n\nWeek\nModule\nDetailed Topics\nMeetings\n\n\n\n\n1\nFoundations\nPython; variables & data types; arrays & DataFrames; file I/O; NumPy; Pandas\n1\n\n\n2\nMachine Learning\nOptimization; definition and scope\n1\n\n\n3\nLinear Regression\nOLS; interpretation; residual analysis; collinearity; diagnostics\n2\n\n\n4\nLogistic Regression\nOdds & log-odds; diagnostics; ROC; model comparison\n2\n\n\n5\nFeature Engineering\nScaling; centering; transformations; interaction; encoding; prepossessing\n2\n\n\n6\nLasso Regression\nRegularization; penalty; cross-validation; stability of selected features\n2\n\n\n7\nK-Nearest Neighbors\nDistance; normalization; tuning K; decision regions; bias/variance\n1\n\n\n8\nSVM\nMaximum margin classifier; loss; kernel; comparison to KNN and logistic\n1\n\n\n9\nDecision Trees\nRecursive partitioning; entropy and Gini; overfitting; pruning\n1\n\n\n10\nCART\nClassification and regression trees; applications and technical aspects\n2\n\n\n11\nEnsemble Methods\nBoosting; bagging; bias–variance trade-off; AdaBoost; random forest\n1\n\n\n12\nModel Selection\nOverfitting vs generalization; CV; best subset; stepwise; shrinkage\n1\n\n\n13\nPCA\nEigenvectors; projections; loading interpretation; projection geometry\n2\n\n\n14\nK-Means Clustering\nDistance; within-cluster variance; scaling; elbow method; silhouette\n1\n\n\n15\nImage Classification\nPreprocessing; compression; classification;\n1\n\n\n16\nNLP\nBag-of-words; TF–IDF; sentiment scoring; Classfication; interpretability\n1",
     "crumbs": [
@@ -68,7 +68,7 @@
   {
     "objectID": "stat4500.html#lectures",
     "href": "stat4500.html#lectures",
-    "title": "An Introduction to Statistical learning",
+    "title": "Statistical Machine Learning",
     "section": "",
     "text": "Lecture slides, class notes, and problem sets are linked below. New material is added approximately on a weekly basis.\n\n\n\n\n\n\n\n\n\nWeek\nModule\nDetailed Topics\nMeetings\n\n\n\n\n1\nFoundations\nPython; variables & data types; arrays & DataFrames; file I/O; NumPy; Pandas\n1\n\n\n2\nMachine Learning\nOptimization; definition and scope\n1\n\n\n3\nLinear Regression\nOLS; interpretation; residual analysis; collinearity; diagnostics\n2\n\n\n4\nLogistic Regression\nOdds & log-odds; diagnostics; ROC; model comparison\n2\n\n\n5\nFeature Engineering\nScaling; centering; transformations; interaction; encoding; prepossessing\n2\n\n\n6\nLasso Regression\nRegularization; penalty; cross-validation; stability of selected features\n2\n\n\n7\nK-Nearest Neighbors\nDistance; normalization; tuning K; decision regions; bias/variance\n1\n\n\n8\nSVM\nMaximum margin classifier; loss; kernel; comparison to KNN and logistic\n1\n\n\n9\nDecision Trees\nRecursive partitioning; entropy and Gini; overfitting; pruning\n1\n\n\n10\nCART\nClassification and regression trees; applications and technical aspects\n2\n\n\n11\nEnsemble Methods\nBoosting; bagging; bias–variance trade-off; AdaBoost; random forest\n1\n\n\n12\nModel Selection\nOverfitting vs generalization; CV; best subset; stepwise; shrinkage\n1\n\n\n13\nPCA\nEigenvectors; projections; loading interpretation; projection geometry\n2\n\n\n14\nK-Means Clustering\nDistance; within-cluster variance; scaling; elbow method; silhouette\n1\n\n\n15\nImage Classification\nPreprocessing; compression; classification;\n1\n\n\n16\nNLP\nBag-of-words; TF–IDF; sentiment scoring; Classfication; interpretability\n1",
     "crumbs": [
@@ -79,7 +79,7 @@
   {
     "objectID": "stat4500.html#assessments",
     "href": "stat4500.html#assessments",
-    "title": "An Introduction to Statistical learning",
+    "title": "Statistical Machine Learning",
     "section": "Assessments",
     "text": "Assessments\nStudents must submit: Full prompt. transcripts, R code, Results. Guided Learning Assignments, Labs exam, and Final Project.\n\nGPTs Guided Learning\n\n\n\nGL\nTopics\nDetails\nGPTs\n\n\n\n\nG1\n3–6\nFit linear and logistic models; feature engineering; interpretation\nhttps://chatgpt.com/g/g-69309d3545bc8191967b94e22738ddd8-sp500\n\n\nG2\n7–9\nImplement KNN, SVM, and decision trees; tuning; validation\nhttps://chatgpt.com/g/g-69309d3545bc8191967b94e22738ddd8-sp500\n\n\nG3\n11–12\nValidation; training vs testing; model selection\nhttps://chatgpt.com/g/g-69309d3545bc8191967b94e22738ddd8-sp500\n\n\nG4\n13–14\nPerform PCA; interpretation; cluster analysis\nhttps://chatgpt.com/g/g-69309d3545bc8191967b94e22738ddd8-sp500\n\n\n\n\n\nLabs\n\n\n\n\n\n\n\n\n\nLab\nTopics\nDatasets\nGoal\n\n\n\n\nL0\nPython Refresher\nChronic Kidney Disease\nOrganize, combine, impute, and visualize data\n\n\nL1\nLinear Regression\nWine or Moneyball\nBuild, optimize, experiment with, and interpret regression models\n\n\nL2\nLogistic Regression\nFramingham\nBuild a Framingham risk score\n\n\nL3\nCART\nVandalism in Wikipedia\nPredict whether a revision is vandalism\n\n\nL4\nLinear Optimization\nRadiation Therapy\nExperiment with different objective functions\n\n\n\n\n\nAssignments",
     "crumbs": [
