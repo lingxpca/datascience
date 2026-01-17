@@ -10,17 +10,11 @@ website:
     style: "docked"
     search: true
     contents:
-      - section: "STAT1010"
-        contents:
-          - text: "Contents"
-            href: stat1010.qmd 
-          - text: "Resources"
-            href: index.qmd
       - section: "STAT4500"  
         href: stat4500.qmd   
         contents:
           - text: "Resourses"
-            href: 4500slides.qmd
+            href: index.qmd
   page-footer: "Copyright 2026, Xiao Ling@AUM"
   
 format:
