@@ -4,22 +4,14 @@
     "href": "4500slides.html#hello-there",
     "title": "Lectures",
     "section": "Hello, There",
-    "text": "Hello, There\nThis presentation will show you examples of what you can do with Quarto and Reveal.js, including:\n\nPresenting code and LaTeX equations\nIncluding computations in slide output\nImage, video, and iframe backgrounds\nFancy transitions and animations\nActivating scroll view\n\n…and much more",
-    "crumbs": [
-      "STAT4500",
-      "Resourses"
-    ]
+    "text": "Hello, There\nThis presentation will show you examples of what you can do with Quarto and Reveal.js, including:\n\nPresenting code and LaTeX equations\nIncluding computations in slide output\nImage, video, and iframe backgrounds\nFancy transitions and animations\nActivating scroll view\n\n…and much more"
   },
   {
     "objectID": "4500slides.html#pretty-code",
     "href": "4500slides.html#pretty-code",
     "title": "Lectures",
     "section": "Pretty Code",
-    "text": "Pretty Code\n\nOver 20 syntax highlighting themes available\nDefault theme optimized for accessibility\n\n# Define a server for the Shiny app\nfunction(input, output) {\n  \n  # Fill in the spot we created for a plot\n  output$phonePlot &lt;- renderPlot({\n    # Render a barplot\n  })\n}\n\nLearn more: Syntax Highlighting",
-    "crumbs": [
-      "STAT4500",
-      "Resourses"
-    ]
+    "text": "Pretty Code\n\nOver 20 syntax highlighting themes available\nDefault theme optimized for accessibility\n\n# Define a server for the Shiny app\nfunction(input, output) {\n  \n  # Fill in the spot we created for a plot\n  output$phonePlot &lt;- renderPlot({\n    # Render a barplot\n  })\n}\n\nLearn more: Syntax Highlighting"
   },
   {
     "objectID": "about.html",
@@ -33,33 +25,21 @@
     "href": "stat1010.html",
     "title": "Introduction to Data Science",
     "section": "",
-    "text": "Lecture slides, class notes, and problem sets are linked below. New material is added approximately on a weekly basis.\n\n\n\n\n\n\n\n\nTopic\nDetailed Topics\n#M\n\n\n\n\nIntro to Python\nPython basics; built-in data structures (lists, dicts, tuples, sets); data types; basic file I/O; use of interactive shell / Jupyter / IPython\n2\n\n\nIntermediate Python\nNumPy; Matplotlib; Pandas; logic; control flow; loops; filtering\n2\n\n\nPython Tool Box\nUser-defined functions; lambda functions; iterators; comprehensions; generators; zip; streaming\n2\n\n\nImporting Data\nFlat files; with; print; NumPy; DataFrames\n1\n\n\nData Manipulation\nCleaning data; handling missing values; merging/joining tables; concatenation; reshaping (wide ↔︎ long); data transformation; groupby; split-apply-combine; aggregation; summarization\n2\n\n\nData Visualization\nTools; simple line/scatter/density/histograms; Matplotlib; Seaborn\n2",
-    "crumbs": [
-      "STAT1010",
-      "Contents"
-    ]
+    "text": "Lecture slides, class notes, and problem sets are linked below. New material is added approximately on a weekly basis.\n\n\n\n\n\n\n\n\nTopic\nDetailed Topics\n#M\n\n\n\n\nIntro to Python\nPython basics; built-in data structures (lists, dicts, tuples, sets); data types; basic file I/O; use of interactive shell / Jupyter / IPython\n2\n\n\nIntermediate Python\nNumPy; Matplotlib; Pandas; logic; control flow; loops; filtering\n2\n\n\nPython Tool Box\nUser-defined functions; lambda functions; iterators; comprehensions; generators; zip; streaming\n2\n\n\nImporting Data\nFlat files; with; print; NumPy; DataFrames\n1\n\n\nData Manipulation\nCleaning data; handling missing values; merging/joining tables; concatenation; reshaping (wide ↔︎ long); data transformation; groupby; split-apply-combine; aggregation; summarization\n2\n\n\nData Visualization\nTools; simple line/scatter/density/histograms; Matplotlib; Seaborn\n2"
   },
   {
     "objectID": "stat1010.html#lectures",
     "href": "stat1010.html#lectures",
     "title": "Introduction to Data Science",
     "section": "",
-    "text": "Lecture slides, class notes, and problem sets are linked below. New material is added approximately on a weekly basis.\n\n\n\n\n\n\n\n\nTopic\nDetailed Topics\n#M\n\n\n\n\nIntro to Python\nPython basics; built-in data structures (lists, dicts, tuples, sets); data types; basic file I/O; use of interactive shell / Jupyter / IPython\n2\n\n\nIntermediate Python\nNumPy; Matplotlib; Pandas; logic; control flow; loops; filtering\n2\n\n\nPython Tool Box\nUser-defined functions; lambda functions; iterators; comprehensions; generators; zip; streaming\n2\n\n\nImporting Data\nFlat files; with; print; NumPy; DataFrames\n1\n\n\nData Manipulation\nCleaning data; handling missing values; merging/joining tables; concatenation; reshaping (wide ↔︎ long); data transformation; groupby; split-apply-combine; aggregation; summarization\n2\n\n\nData Visualization\nTools; simple line/scatter/density/histograms; Matplotlib; Seaborn\n2",
-    "crumbs": [
-      "STAT1010",
-      "Contents"
-    ]
+    "text": "Lecture slides, class notes, and problem sets are linked below. New material is added approximately on a weekly basis.\n\n\n\n\n\n\n\n\nTopic\nDetailed Topics\n#M\n\n\n\n\nIntro to Python\nPython basics; built-in data structures (lists, dicts, tuples, sets); data types; basic file I/O; use of interactive shell / Jupyter / IPython\n2\n\n\nIntermediate Python\nNumPy; Matplotlib; Pandas; logic; control flow; loops; filtering\n2\n\n\nPython Tool Box\nUser-defined functions; lambda functions; iterators; comprehensions; generators; zip; streaming\n2\n\n\nImporting Data\nFlat files; with; print; NumPy; DataFrames\n1\n\n\nData Manipulation\nCleaning data; handling missing values; merging/joining tables; concatenation; reshaping (wide ↔︎ long); data transformation; groupby; split-apply-combine; aggregation; summarization\n2\n\n\nData Visualization\nTools; simple line/scatter/density/histograms; Matplotlib; Seaborn\n2"
   },
   {
     "objectID": "stat1010.html#assessments",
     "href": "stat1010.html#assessments",
     "title": "Introduction to Data Science",
     "section": "2 Assessments",
-    "text": "2 Assessments\n\n2.0.1 GPTs Guided Learning\nhttps://chatgpt.com/g/g-69309d3545bc8191967b94e22738ddd8-sp500\n\n\n2.0.2 Labs\n\n\n2.0.3 Assignments\nprint(\"hellow world\")",
-    "crumbs": [
-      "STAT1010",
-      "Contents"
-    ]
+    "text": "2 Assessments\n\n2.0.1 GPTs Guided Learning\nhttps://chatgpt.com/g/g-69309d3545bc8191967b94e22738ddd8-sp500\n\n\n2.0.2 Labs\n\n\n2.0.3 Assignments\nprint(\"hellow world\")"
   },
   {
     "objectID": "stat4500.html",
@@ -98,8 +78,8 @@
     "section": "",
     "text": "This is the AUM Data Science website.\n\n\n\n Back to top",
     "crumbs": [
-      "STAT1010",
-      "Resources"
+      "STAT4500",
+      "Resourses"
     ]
   },
   {
