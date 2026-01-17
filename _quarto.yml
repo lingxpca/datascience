@@ -24,4 +24,9 @@ format:
     toc-depth: 4
     number-sections: true   
     page-layout: full
+    css: styles.css
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/computer-modern-web-font@1.0.0/css/cmun-serif.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/computer-modern-web-font@1.0.0/css/cmun-typewriter.css">
           
