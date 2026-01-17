@@ -16,25 +16,11 @@ website:
             href: stat1010.qmd 
           - text: "Resources"
             href: index.qmd
-      - section: "STAT2000"
-        contents:
-          - text: "Contents"
-            href: stat2000.qmd 
-          - text: "Resources"
-            href: index.qmd      
-      - section: "STAT3000"
-        contents:
-          - text: "Contents"
-            href: stat3000.qmd 
-          - text: "Resources"
-            href: index.qmd
       - section: "STAT4500" 
-        contents:
-          - text: "Contents"
-            href: stat4500.qmd 
-          - text: "Resources"
-            href: index.qmd
-  page-footer: "Copyright 2026, Xiao Ling"
+            href: stat4500.qmd   
+          - text: "Resourses"
+            href: 4500slides.qmd
+  page-footer: "Copyright 2026, Xiao Ling@AUM"
   
 format:
   html:

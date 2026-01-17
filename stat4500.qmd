@@ -56,9 +56,8 @@ Students must submit: Full prompt. transcripts, R code, Results. Guided Learning
 | L3  | CART                  | Vandalism in Wikipedia     | Predict whether a revision is vandalism                          |
 | L4  | Linear Optimization   | Radiation Therapy          | Experiment with different objective functions                    |
 
-
-### Assignments
- 
+### Slides
+Go to the [Slides](4500slides.qmd)
 
  
 
