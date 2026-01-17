@@ -1,17 +1,9 @@
- /* Use Computer Modern (webfont), fall back to serif if unavailable */
 body {
-  font-family: "Computer Modern Serif", "CMU Serif", "Latin Modern Roman",
+  font-family: "CMU Serif", "Computer Modern Serif", "Latin Modern Roman",
                "Times New Roman", Times, serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Computer Modern Serif", "CMU Serif", "Latin Modern Roman",
+  font-family: "CMU Serif", "Computer Modern Serif", "Latin Modern Roman",
                "Times New Roman", Times, serif;
-}
-
-/* Optional: make code look LaTeX-y too */
-code, pre, kbd, samp {
-  font-family: "Computer Modern Typewriter", "CMU Typewriter Text",
-               ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
-               "Liberation Mono", "Courier New", monospace;
 }
