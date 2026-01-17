@@ -16,8 +16,9 @@ website:
             href: stat1010.qmd 
           - text: "Resources"
             href: index.qmd
-      - section: "STAT4500" 
-            href: stat4500.qmd   
+      - section: "STAT4500"  
+        href: stat4500.qmd   
+        contents:
           - text: "Resourses"
             href: 4500slides.qmd
   page-footer: "Copyright 2026, Xiao Ling@AUM"
