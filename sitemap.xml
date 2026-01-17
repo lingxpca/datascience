@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lingxpca.github.io/datascience/stat3000.html</loc>
-    <lastmod>2026-01-17T02:50:47.613Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lingxpca.github.io/datascience/stat2000.html</loc>
-    <lastmod>2026-01-17T02:50:47.613Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lingxpca.github.io/datascience/index.html</loc>
-    <lastmod>2026-01-17T02:50:47.612Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lingxpca.github.io/datascience/stat4500.html</loc>
-    <lastmod>2026-01-17T02:50:47.613Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lingxpca.github.io/datascience/stat1010.html</loc>
-    <lastmod>2026-01-17T02:50:47.613Z</lastmod>
+    <loc>https://lingxpca.github.io/datascience/4500slides.html</loc>
+    <lastmod>2026-01-17T15:38:40.789Z</lastmod>
   </url>
   <url>
     <loc>https://lingxpca.github.io/datascience/about.html</loc>
-    <lastmod>2026-01-17T02:50:47.612Z</lastmod>
+    <lastmod>2026-01-17T15:38:40.822Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lingxpca.github.io/datascience/stat1010.html</loc>
+    <lastmod>2026-01-17T15:38:40.827Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lingxpca.github.io/datascience/stat4500.html</loc>
+    <lastmod>2026-01-17T15:38:40.827Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lingxpca.github.io/datascience/index.html</loc>
+    <lastmod>2026-01-17T15:38:40.826Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lingxpca.github.io/datascience/stat2000.html</loc>
+    <lastmod>2026-01-17T15:38:40.827Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lingxpca.github.io/datascience/stat3000.html</loc>
+    <lastmod>2026-01-17T15:38:40.827Z</lastmod>
   </url>
 </urlset>

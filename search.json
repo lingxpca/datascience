@@ -1,91 +1,32 @@
 [
   {
-    "objectID": "stat3000.html",
-    "href": "stat3000.html",
-    "title": "Statistics with R Programming",
-    "section": "",
-    "text": "Lecture slides, class notes, and problem sets are linked below. New material is added approximately on a weekly basis.\n\n\n\n\n\n\n\n\n\n\nwk\nTopic\nPackages\nDetailed Topics\n#M\n\n\n\n\n1\nIntroduction\nbase R\nR; IDE; console vs script; working directory; packages; help system\n1\n\n\n2\nR Basics I\nbase R\nObjects; atomic vectors; matrices; lists; data frames; naming; inspection\n1\n\n\n3\nR Basics II\nbase R\nSubsetting; indexing; type coercion; NA handling; sorting; vector arithmetic; basic plotting\n1\n\n\n4\nProgramming\nbase R\nConditionals; loops; functions; scoping; vectorization; apply family\n2\n\n\n5\nData Wrangling\ndplyr; magrittr\nfilter; select; mutate; summaries; pipe operator; tidy data; grouped operations\n2\n\n\n6\nImporting Data\nreadr\nCSV files; paths; data importing; fread; aggregation; sorting\n2\n\n\n7\nExploratory Data Analysis\nbase R; ggplot2\nSummaries; distributions; groupwise comparisons; plots; exploratory analysis\n3\n\n\n8\nProbability\nbase R\nProbability rules; discrete & continuous models; random variables; expectation; variance; sampling; CLT; simulation\n2\n\n\n9\nStatistical Inference\nbase R\nPoint estimation; standard error; confidence intervals; Monte Carlo inference; bootstrap; resampling logic\n4\n\n\n10\nHypothesis Testing\nbase R; stats\nNull and alternative hypotheses; test statistics; p-values; significance level; power; bootstrap tests; interpretation\n1\n\n\n11\nLinear Regression\nstats\nOLS derivation; assumptions; diagnostics; confidence intervals for coefficients; model selection; multicollinearity\n3\n\n\n12\nLogistic Regression\nstats\nOdds; log-odds; likelihood; MLE; classification vs regression; diagnostics; interpretation\n2\n\n\n13\nTreatment Effects & ANOVA\nstats\nOne-way ANOVA; two-factor models; interactions; contrasts; interpretation\n1\n\n\n14\nHigh-Dimensional Data\nbase R\nLinear algebra; dimensional reduction; regularization; latent factors\n3",
-    "crumbs": [
-      "STAT3000",
-      "Contents"
-    ]
-  },
-  {
-    "objectID": "stat3000.html#lectures",
-    "href": "stat3000.html#lectures",
-    "title": "Statistics with R Programming",
-    "section": "",
-    "text": "Lecture slides, class notes, and problem sets are linked below. New material is added approximately on a weekly basis.\n\n\n\n\n\n\n\n\n\n\nwk\nTopic\nPackages\nDetailed Topics\n#M\n\n\n\n\n1\nIntroduction\nbase R\nR; IDE; console vs script; working directory; packages; help system\n1\n\n\n2\nR Basics I\nbase R\nObjects; atomic vectors; matrices; lists; data frames; naming; inspection\n1\n\n\n3\nR Basics II\nbase R\nSubsetting; indexing; type coercion; NA handling; sorting; vector arithmetic; basic plotting\n1\n\n\n4\nProgramming\nbase R\nConditionals; loops; functions; scoping; vectorization; apply family\n2\n\n\n5\nData Wrangling\ndplyr; magrittr\nfilter; select; mutate; summaries; pipe operator; tidy data; grouped operations\n2\n\n\n6\nImporting Data\nreadr\nCSV files; paths; data importing; fread; aggregation; sorting\n2\n\n\n7\nExploratory Data Analysis\nbase R; ggplot2\nSummaries; distributions; groupwise comparisons; plots; exploratory analysis\n3\n\n\n8\nProbability\nbase R\nProbability rules; discrete & continuous models; random variables; expectation; variance; sampling; CLT; simulation\n2\n\n\n9\nStatistical Inference\nbase R\nPoint estimation; standard error; confidence intervals; Monte Carlo inference; bootstrap; resampling logic\n4\n\n\n10\nHypothesis Testing\nbase R; stats\nNull and alternative hypotheses; test statistics; p-values; significance level; power; bootstrap tests; interpretation\n1\n\n\n11\nLinear Regression\nstats\nOLS derivation; assumptions; diagnostics; confidence intervals for coefficients; model selection; multicollinearity\n3\n\n\n12\nLogistic Regression\nstats\nOdds; log-odds; likelihood; MLE; classification vs regression; diagnostics; interpretation\n2\n\n\n13\nTreatment Effects & ANOVA\nstats\nOne-way ANOVA; two-factor models; interactions; contrasts; interpretation\n1\n\n\n14\nHigh-Dimensional Data\nbase R\nLinear algebra; dimensional reduction; regularization; latent factors\n3",
-    "crumbs": [
-      "STAT3000",
-      "Contents"
-    ]
-  },
-  {
-    "objectID": "stat3000.html#assessments",
-    "href": "stat3000.html#assessments",
-    "title": "Statistics with R Programming",
-    "section": "2 Assessments",
-    "text": "2 Assessments\n\n2.0.1 GPTs Guided Learning\nhttps://chatgpt.com/g/g-69309d3545bc8191967b94e22738ddd8-sp500\n\n\n2.0.2 Labs\n\n\n2.0.3 Assignments\nprint(\"hellow world\")",
-    "crumbs": [
-      "STAT3000",
-      "Contents"
-    ]
-  },
-  {
-    "objectID": "stat2000.html",
-    "href": "stat2000.html",
-    "title": "Data Visualization and Wrangling",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "STAT2000",
-      "Contents"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Introduction",
-    "section": "",
-    "text": "This is the AUM Data Science website.\n\n\n\n Back to top",
-    "crumbs": [
-      "STAT1010",
-      "Resources"
-    ]
-  },
-  {
-    "objectID": "stat4500.html",
-    "href": "stat4500.html",
-    "title": "Statistical Machine Learning",
-    "section": "",
-    "text": "Lecture slides, class notes, and problem sets are linked below. New material is added approximately on a weekly basis.\n\n\n\n\n\n\n\n\n\nWeek\nModule\nDetailed Topics\nMeetings\n\n\n\n\n1\nFoundations\nSyllabus, Python Object, Variable, Functions, Colab, Linear algebra, Descriptive Statistics\n2\n\n\n2\nMachine Learning\nOptimization; definition and scope\n1\n\n\n3\nLinear Regression\nOLS; interpretation; residual analysis; collinearity; diagnostics\n2\n\n\n4\nLogistic Regression\nOdds & log-odds; diagnostics; ROC; model comparison\n2\n\n\n5\nFeature Engineering\nScaling; centering; transformations; interaction; encoding; prepossessing\n2\n\n\n6\nLasso Regression\nRegularization; penalty; cross-validation; stability of selected features\n2\n\n\n7\nK-Nearest Neighbors\nDistance; normalization; tuning K; decision regions; bias/variance\n1\n\n\n8\nSVM\nMaximum margin classifier; loss; kernel; comparison to KNN and logistic\n1\n\n\n9\nDecision Trees\nRecursive partitioning; entropy and Gini; overfitting; pruning\n1\n\n\n10\nCART\nClassification and regression trees; applications and technical aspects\n2\n\n\n11\nEnsemble Methods\nBoosting; bagging; bias–variance trade-off; AdaBoost; random forest\n1\n\n\n12\nModel Selection\nOverfitting vs generalization; CV; best subset; stepwise; shrinkage\n1\n\n\n13\nPCA\nEigenvectors; projections; loading interpretation; projection geometry\n2\n\n\n14\nK-Means Clustering\nDistance; within-cluster variance; scaling; elbow method; silhouette\n1\n\n\n15\nImage Classification\nPreprocessing; compression; classification;\n1\n\n\n16\nNLP\nBag-of-words; TF–IDF; sentiment scoring; Classfication; interpretability\n1",
+    "objectID": "4500slides.html#hello-there",
+    "href": "4500slides.html#hello-there",
+    "title": "Lectures",
+    "section": "Hello, There",
+    "text": "Hello, There\nThis presentation will show you examples of what you can do with Quarto and Reveal.js, including:\n\nPresenting code and LaTeX equations\nIncluding computations in slide output\nImage, video, and iframe backgrounds\nFancy transitions and animations\nActivating scroll view\n\n…and much more",
     "crumbs": [
       "STAT4500",
-      "Contents"
+      "Resourses"
     ]
   },
   {
-    "objectID": "stat4500.html#lectures",
-    "href": "stat4500.html#lectures",
-    "title": "Statistical Machine Learning",
+    "objectID": "4500slides.html#pretty-code",
+    "href": "4500slides.html#pretty-code",
+    "title": "Lectures",
+    "section": "Pretty Code",
+    "text": "Pretty Code\n\nOver 20 syntax highlighting themes available\nDefault theme optimized for accessibility\n\n# Define a server for the Shiny app\nfunction(input, output) {\n  \n  # Fill in the spot we created for a plot\n  output$phonePlot &lt;- renderPlot({\n    # Render a barplot\n  })\n}\n\nLearn more: Syntax Highlighting",
+    "crumbs": [
+      "STAT4500",
+      "Resourses"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Project",
     "section": "",
-    "text": "Lecture slides, class notes, and problem sets are linked below. New material is added approximately on a weekly basis.\n\n\n\n\n\n\n\n\n\nWeek\nModule\nDetailed Topics\nMeetings\n\n\n\n\n1\nFoundations\nSyllabus, Python Object, Variable, Functions, Colab, Linear algebra, Descriptive Statistics\n2\n\n\n2\nMachine Learning\nOptimization; definition and scope\n1\n\n\n3\nLinear Regression\nOLS; interpretation; residual analysis; collinearity; diagnostics\n2\n\n\n4\nLogistic Regression\nOdds & log-odds; diagnostics; ROC; model comparison\n2\n\n\n5\nFeature Engineering\nScaling; centering; transformations; interaction; encoding; prepossessing\n2\n\n\n6\nLasso Regression\nRegularization; penalty; cross-validation; stability of selected features\n2\n\n\n7\nK-Nearest Neighbors\nDistance; normalization; tuning K; decision regions; bias/variance\n1\n\n\n8\nSVM\nMaximum margin classifier; loss; kernel; comparison to KNN and logistic\n1\n\n\n9\nDecision Trees\nRecursive partitioning; entropy and Gini; overfitting; pruning\n1\n\n\n10\nCART\nClassification and regression trees; applications and technical aspects\n2\n\n\n11\nEnsemble Methods\nBoosting; bagging; bias–variance trade-off; AdaBoost; random forest\n1\n\n\n12\nModel Selection\nOverfitting vs generalization; CV; best subset; stepwise; shrinkage\n1\n\n\n13\nPCA\nEigenvectors; projections; loading interpretation; projection geometry\n2\n\n\n14\nK-Means Clustering\nDistance; within-cluster variance; scaling; elbow method; silhouette\n1\n\n\n15\nImage Classification\nPreprocessing; compression; classification;\n1\n\n\n16\nNLP\nBag-of-words; TF–IDF; sentiment scoring; Classfication; interpretability\n1",
-    "crumbs": [
-      "STAT4500",
-      "Contents"
-    ]
-  },
-  {
-    "objectID": "stat4500.html#assessments",
-    "href": "stat4500.html#assessments",
-    "title": "Statistical Machine Learning",
-    "section": "Assessments",
-    "text": "Assessments\nStudents must submit: Full prompt. transcripts, R code, Results. Guided Learning Assignments, Labs exam, and Final Project.\n\nGPTs Guided Learning\n\n\n\nGL\nTopics\nDetails\nGPTs\n\n\n\n\nG1\n3–6\nFit linear and logistic models; feature engineering; interpretation\nhttps://chatgpt.com/g/g-69309d3545bc8191967b94e22738ddd8-sp500\n\n\nG2\n7–9\nImplement KNN, SVM, and decision trees; tuning; validation\nhttps://chatgpt.com/g/g-69309d3545bc8191967b94e22738ddd8-sp500\n\n\nG3\n11–12\nValidation; training vs testing; model selection\nhttps://chatgpt.com/g/g-69309d3545bc8191967b94e22738ddd8-sp500\n\n\nG4\n13–14\nPerform PCA; interpretation; cluster analysis\nhttps://chatgpt.com/g/g-69309d3545bc8191967b94e22738ddd8-sp500\n\n\n\n\n\nLabs\n\n\n\n\n\n\n\n\n\nLab\nTopics\nDatasets\nGoal\n\n\n\n\nL0\nPython Refresher\nChronic Kidney Disease\nOrganize, combine, impute, and visualize data\n\n\nL1\nLinear Regression\nWine or Moneyball\nBuild, optimize, experiment with, and interpret regression models\n\n\nL2\nLogistic Regression\nFramingham\nBuild a Framingham risk score\n\n\nL3\nCART\nVandalism in Wikipedia\nPredict whether a revision is vandalism\n\n\nL4\nLinear Optimization\nRadiation Therapy\nExperiment with different objective functions\n\n\n\n\n\nAssignments",
-    "crumbs": [
-      "STAT4500",
-      "Contents"
-    ]
+    "text": "Back to top"
   },
   {
     "objectID": "stat1010.html",
@@ -121,10 +62,72 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Project",
+    "objectID": "stat4500.html",
+    "href": "stat4500.html",
+    "title": "Statistical Machine Learning",
+    "section": "",
+    "text": "Lecture slides, class notes, and problem sets are linked below. New material is added approximately on a weekly basis.\n\n\n\n\n\n\n\n\n\nWeek\nModule\nDetailed Topics\nMeetings\n\n\n\n\n1\nFoundations\nSyllabus, Python Object, Variable, Functions, Colab, Linear algebra, Descriptive Statistics\n2\n\n\n2\nMachine Learning\nOptimization; definition and scope\n1\n\n\n3\nLinear Regression\nOLS; interpretation; residual analysis; collinearity; diagnostics\n2\n\n\n4\nLogistic Regression\nOdds & log-odds; diagnostics; ROC; model comparison\n2\n\n\n5\nFeature Engineering\nScaling; centering; transformations; interaction; encoding; prepossessing\n2\n\n\n6\nLasso Regression\nRegularization; penalty; cross-validation; stability of selected features\n2\n\n\n7\nK-Nearest Neighbors\nDistance; normalization; tuning K; decision regions; bias/variance\n1\n\n\n8\nSVM\nMaximum margin classifier; loss; kernel; comparison to KNN and logistic\n1\n\n\n9\nDecision Trees\nRecursive partitioning; entropy and Gini; overfitting; pruning\n1\n\n\n10\nCART\nClassification and regression trees; applications and technical aspects\n2\n\n\n11\nEnsemble Methods\nBoosting; bagging; bias–variance trade-off; AdaBoost; random forest\n1\n\n\n12\nModel Selection\nOverfitting vs generalization; CV; best subset; stepwise; shrinkage\n1\n\n\n13\nPCA\nEigenvectors; projections; loading interpretation; projection geometry\n2\n\n\n14\nK-Means Clustering\nDistance; within-cluster variance; scaling; elbow method; silhouette\n1\n\n\n15\nImage Classification\nPreprocessing; compression; classification;\n1\n\n\n16\nNLP\nBag-of-words; TF–IDF; sentiment scoring; Classfication; interpretability\n1",
+    "crumbs": [
+      "STAT4500"
+    ]
+  },
+  {
+    "objectID": "stat4500.html#lectures",
+    "href": "stat4500.html#lectures",
+    "title": "Statistical Machine Learning",
+    "section": "",
+    "text": "Lecture slides, class notes, and problem sets are linked below. New material is added approximately on a weekly basis.\n\n\n\n\n\n\n\n\n\nWeek\nModule\nDetailed Topics\nMeetings\n\n\n\n\n1\nFoundations\nSyllabus, Python Object, Variable, Functions, Colab, Linear algebra, Descriptive Statistics\n2\n\n\n2\nMachine Learning\nOptimization; definition and scope\n1\n\n\n3\nLinear Regression\nOLS; interpretation; residual analysis; collinearity; diagnostics\n2\n\n\n4\nLogistic Regression\nOdds & log-odds; diagnostics; ROC; model comparison\n2\n\n\n5\nFeature Engineering\nScaling; centering; transformations; interaction; encoding; prepossessing\n2\n\n\n6\nLasso Regression\nRegularization; penalty; cross-validation; stability of selected features\n2\n\n\n7\nK-Nearest Neighbors\nDistance; normalization; tuning K; decision regions; bias/variance\n1\n\n\n8\nSVM\nMaximum margin classifier; loss; kernel; comparison to KNN and logistic\n1\n\n\n9\nDecision Trees\nRecursive partitioning; entropy and Gini; overfitting; pruning\n1\n\n\n10\nCART\nClassification and regression trees; applications and technical aspects\n2\n\n\n11\nEnsemble Methods\nBoosting; bagging; bias–variance trade-off; AdaBoost; random forest\n1\n\n\n12\nModel Selection\nOverfitting vs generalization; CV; best subset; stepwise; shrinkage\n1\n\n\n13\nPCA\nEigenvectors; projections; loading interpretation; projection geometry\n2\n\n\n14\nK-Means Clustering\nDistance; within-cluster variance; scaling; elbow method; silhouette\n1\n\n\n15\nImage Classification\nPreprocessing; compression; classification;\n1\n\n\n16\nNLP\nBag-of-words; TF–IDF; sentiment scoring; Classfication; interpretability\n1",
+    "crumbs": [
+      "STAT4500"
+    ]
+  },
+  {
+    "objectID": "stat4500.html#assessments",
+    "href": "stat4500.html#assessments",
+    "title": "Statistical Machine Learning",
+    "section": "Assessments",
+    "text": "Assessments\nStudents must submit: Full prompt. transcripts, R code, Results. Guided Learning Assignments, Labs exam, and Final Project.\n\nGPTs Guided Learning\n\n\n\nGL\nTopics\nDetails\nGPTs\n\n\n\n\nG1\n3–6\nFit linear and logistic models; feature engineering; interpretation\nhttps://chatgpt.com/g/g-69309d3545bc8191967b94e22738ddd8-sp500\n\n\nG2\n7–9\nImplement KNN, SVM, and decision trees; tuning; validation\nhttps://chatgpt.com/g/g-69309d3545bc8191967b94e22738ddd8-sp500\n\n\nG3\n11–12\nValidation; training vs testing; model selection\nhttps://chatgpt.com/g/g-69309d3545bc8191967b94e22738ddd8-sp500\n\n\nG4\n13–14\nPerform PCA; interpretation; cluster analysis\nhttps://chatgpt.com/g/g-69309d3545bc8191967b94e22738ddd8-sp500\n\n\n\n\n\nLabs\n\n\n\n\n\n\n\n\n\nLab\nTopics\nDatasets\nGoal\n\n\n\n\nL0\nPython Refresher\nChronic Kidney Disease\nOrganize, combine, impute, and visualize data\n\n\nL1\nLinear Regression\nWine or Moneyball\nBuild, optimize, experiment with, and interpret regression models\n\n\nL2\nLogistic Regression\nFramingham\nBuild a Framingham risk score\n\n\nL3\nCART\nVandalism in Wikipedia\nPredict whether a revision is vandalism\n\n\nL4\nLinear Optimization\nRadiation Therapy\nExperiment with different objective functions\n\n\n\n\n\nSlides\nGo to the Slides",
+    "crumbs": [
+      "STAT4500"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This is the AUM Data Science website.\n\n\n\n Back to top",
+    "crumbs": [
+      "STAT1010",
+      "Resources"
+    ]
+  },
+  {
+    "objectID": "stat2000.html",
+    "href": "stat2000.html",
+    "title": "Data Visualization and Wrangling",
     "section": "",
     "text": "Back to top"
+  },
+  {
+    "objectID": "stat3000.html",
+    "href": "stat3000.html",
+    "title": "Statistics with R Programming",
+    "section": "",
+    "text": "Lecture slides, class notes, and problem sets are linked below. New material is added approximately on a weekly basis.\n\n\n\n\n\n\n\n\n\n\nwk\nTopic\nPackages\nDetailed Topics\n#M\n\n\n\n\n1\nIntroduction\nbase R\nR; IDE; console vs script; working directory; packages; help system\n1\n\n\n2\nR Basics I\nbase R\nObjects; atomic vectors; matrices; lists; data frames; naming; inspection\n1\n\n\n3\nR Basics II\nbase R\nSubsetting; indexing; type coercion; NA handling; sorting; vector arithmetic; basic plotting\n1\n\n\n4\nProgramming\nbase R\nConditionals; loops; functions; scoping; vectorization; apply family\n2\n\n\n5\nData Wrangling\ndplyr; magrittr\nfilter; select; mutate; summaries; pipe operator; tidy data; grouped operations\n2\n\n\n6\nImporting Data\nreadr\nCSV files; paths; data importing; fread; aggregation; sorting\n2\n\n\n7\nExploratory Data Analysis\nbase R; ggplot2\nSummaries; distributions; groupwise comparisons; plots; exploratory analysis\n3\n\n\n8\nProbability\nbase R\nProbability rules; discrete & continuous models; random variables; expectation; variance; sampling; CLT; simulation\n2\n\n\n9\nStatistical Inference\nbase R\nPoint estimation; standard error; confidence intervals; Monte Carlo inference; bootstrap; resampling logic\n4\n\n\n10\nHypothesis Testing\nbase R; stats\nNull and alternative hypotheses; test statistics; p-values; significance level; power; bootstrap tests; interpretation\n1\n\n\n11\nLinear Regression\nstats\nOLS derivation; assumptions; diagnostics; confidence intervals for coefficients; model selection; multicollinearity\n3\n\n\n12\nLogistic Regression\nstats\nOdds; log-odds; likelihood; MLE; classification vs regression; diagnostics; interpretation\n2\n\n\n13\nTreatment Effects & ANOVA\nstats\nOne-way ANOVA; two-factor models; interactions; contrasts; interpretation\n1\n\n\n14\nHigh-Dimensional Data\nbase R\nLinear algebra; dimensional reduction; regularization; latent factors\n3"
+  },
+  {
+    "objectID": "stat3000.html#lectures",
+    "href": "stat3000.html#lectures",
+    "title": "Statistics with R Programming",
+    "section": "",
+    "text": "Lecture slides, class notes, and problem sets are linked below. New material is added approximately on a weekly basis.\n\n\n\n\n\n\n\n\n\n\nwk\nTopic\nPackages\nDetailed Topics\n#M\n\n\n\n\n1\nIntroduction\nbase R\nR; IDE; console vs script; working directory; packages; help system\n1\n\n\n2\nR Basics I\nbase R\nObjects; atomic vectors; matrices; lists; data frames; naming; inspection\n1\n\n\n3\nR Basics II\nbase R\nSubsetting; indexing; type coercion; NA handling; sorting; vector arithmetic; basic plotting\n1\n\n\n4\nProgramming\nbase R\nConditionals; loops; functions; scoping; vectorization; apply family\n2\n\n\n5\nData Wrangling\ndplyr; magrittr\nfilter; select; mutate; summaries; pipe operator; tidy data; grouped operations\n2\n\n\n6\nImporting Data\nreadr\nCSV files; paths; data importing; fread; aggregation; sorting\n2\n\n\n7\nExploratory Data Analysis\nbase R; ggplot2\nSummaries; distributions; groupwise comparisons; plots; exploratory analysis\n3\n\n\n8\nProbability\nbase R\nProbability rules; discrete & continuous models; random variables; expectation; variance; sampling; CLT; simulation\n2\n\n\n9\nStatistical Inference\nbase R\nPoint estimation; standard error; confidence intervals; Monte Carlo inference; bootstrap; resampling logic\n4\n\n\n10\nHypothesis Testing\nbase R; stats\nNull and alternative hypotheses; test statistics; p-values; significance level; power; bootstrap tests; interpretation\n1\n\n\n11\nLinear Regression\nstats\nOLS derivation; assumptions; diagnostics; confidence intervals for coefficients; model selection; multicollinearity\n3\n\n\n12\nLogistic Regression\nstats\nOdds; log-odds; likelihood; MLE; classification vs regression; diagnostics; interpretation\n2\n\n\n13\nTreatment Effects & ANOVA\nstats\nOne-way ANOVA; two-factor models; interactions; contrasts; interpretation\n1\n\n\n14\nHigh-Dimensional Data\nbase R\nLinear algebra; dimensional reduction; regularization; latent factors\n3"
+  },
+  {
+    "objectID": "stat3000.html#assessments",
+    "href": "stat3000.html#assessments",
+    "title": "Statistics with R Programming",
+    "section": "2 Assessments",
+    "text": "2 Assessments\n\n2.0.1 GPTs Guided Learning\nhttps://chatgpt.com/g/g-69309d3545bc8191967b94e22738ddd8-sp500\n\n\n2.0.2 Labs\n\n\n2.0.3 Assignments\nprint(\"hellow world\")"
   }
 ]
